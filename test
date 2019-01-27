@@ -1,6 +1,6 @@
 ("1", "1-Enter Website or GitHub URL....")
 ("2", "1- Enter Lists URL")
-('2', '3-Search KodiTips.com')
+("2", "3-Search KodiTips.com")
 ("2", "2-Addons4Kodi Recommendations")
 ("1", "2-Installed Addons")
 ("1", "3-System Settings")
